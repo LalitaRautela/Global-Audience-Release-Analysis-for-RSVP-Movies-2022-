@@ -1,4 +1,8 @@
 # Global-Audience-Release-Analysis-for-RSVP-Movies-2022-
+
+![RSVP](https://github.com/LalitaRautela/Global-Audience-Release-Analysis-for-RSVP-Movies-2022-/assets/155307159/0131e6f2-4a49-4f7c-9598-5aa23c6e4736)
+
+
 The given project is a MySQL project, I have used RSVP movies database to derive insightful results using all kinds of SQL queries right from Basics to Advance SQL for RSVP movie company and help them to find to the top genre, director and actor for their next project.
 ## problem statement
 RSVP Movies is an Indian film production company that has produced many super-hit movies. The company has generally released movies for the Indian audience, but they plan to release a movie for the global audience in 2022.
